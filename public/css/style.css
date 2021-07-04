@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-inline-start: 20px;
+}
+
+.frase {
+    text-align: center;
+}
+
+#firma {
+    text-align: end;
+    padding-inline-end: 110px;
+}
+
+button {
+    background-color: rgb(243, 189, 250);
+    border: blueviolet;
+}
+
+li {
+    padding-top: 20px;
+}
+
+span{
+    margin-inline-start: 15px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    margin-inline-start: 10px;
+    display: block;
+    margin-top: 20px;
+}
+
+.span{
+    display: block;
+    text-align: center;
+}
+
+footer{
+    background-color: rgba(248, 222, 239, 0.918);
+}
